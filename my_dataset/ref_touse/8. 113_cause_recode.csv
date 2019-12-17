@@ -1,0 +1,136 @@
+113 Cause Recode,113_Desc
+1, Salmonella infections
+2, Shigellosis and amebiasis 
+3, Certain other intestinal infections 
+4, Tuberculosis 
+5, Respiratory tuberculosis 
+6, Other tuberculosis 
+7, Whooping cough 
+8, Scarlet fever and erysipelas 
+9, Meningococcal infection 
+10, Septicemia 
+11, Syphilis 
+12, Acute poliomyelitis 
+13, Arthropod-borne viral encephalitis 
+14, Measles 
+15, Viral hepatitis 
+16, Human immunodeficiency virus 
+17, Malaria 
+18, Unspecified infectious and parasitic diseases
+19, Malignant neoplasms 
+20," Malignant neoplasm of lip, oral cavity and pharynx "
+21, Malignant neoplasm of esophagus 
+22, Malignant neoplasm of stomach 
+23," Malignant neoplasms of colon, rectum and anus "
+24, Malignant neoplasms of liver and intrahepatic bile ducts 
+25, Malignant neoplasm of pancreas 
+26, Malignant neoplasm of larynx 
+27," Malignant neoplasms of trachea, bronchus and lung "
+28, Malignant melanoma of skin 
+29, Malignant neoplasm of breast 
+30, Malignant neoplasm of cervix uteri 
+31, Malignant neoplasms of corpus uteri and uterus
+32, Malignant neoplasm of ovary 
+33, Malignant neoplasm of prostate 
+34, Malignant neoplasms of kidney and renal pelvis 
+35, Malignant neoplasm of bladder 
+36," Malignant neoplasms of meninges, brain and other parts of CNS"
+37," Malignant neoplasms of lymphoid, hematopoietic and related tissue "
+38, Hodgkin's disease 
+39, Non Hodgkin's lymphoma 
+40, Leukemia 
+41, Multiple myeloma and immunoproliferative neoplasms 
+42,"Unspecified malignant neoplasms of lymphoid, hematopoietic "
+43, All other and unspecified malignant neoplasms 
+44," In situ neoplasms, benign neoplasm and neoplasms of unknown behavior "
+45, Anemias 
+46, Diabetes mellitus 
+47, Nutritional deficiencies 
+48, Malnutrition 
+49, Other nutritional deficiencies 
+50, Meningitis 
+51, Parkinson's disease 
+52, Alzheimer's disease 
+53, Major cardiovascular diseases 
+54, Diseases of heart 
+55, Acute rheumatic fever and chronic rheumatic diseases 
+56, Hypertensive heart disease 
+57, Hypertensive heart and renal disease 
+58, Ischemic heart diseases 
+59, Acute myocardial infarction 
+60, Other acute ischemic heart diseases 
+61, Other forms of chronic ischemic heart disease 
+62," Atherosclerotic cardiovascular disease, so described "
+63, All other forms of chronic ischemic heart disease 
+64, Other heart diseases 
+65, Acute and subacute endocarditis 
+66, Diseases of pericardium and acute myocarditis 
+67, Heart failure 
+68, All other forms of heart disease 
+69, Essential hypertension and hypertensive renal disease 
+70, Cerebrovascular diseases 
+71, Atherosclerosis 
+72, Other diseases of circulatory system 
+73, Aortic aneurysm and dissection 
+74," Other diseases of arteries, arterioles and capillaries "
+75, Other disorders of circulatory system 
+76, Influenza and pneumonia 
+77, Influenza 
+78, Pneumonia 
+79, Other acute lower respiratory infections 
+80, Acute bronchitis and bronchiolitis 
+81, Other and unspecified acute lower respiratory infections 
+82, Chronic lower respiratory diseases 
+83," Bronchitis, chronic and unspecified "
+84, Emphysema 
+85, Asthma 
+86, Other chronic lower respiratory diseases 
+87, Pneumoconioses and chemical effects 
+88, Pneumonitis due to solids and liquids 
+89, Other diseases of respiratory system 
+90, Peptic ulcer 
+91, Diseases of appendix 
+92, Hernia 
+93, Chronic liver disease and cirrhosis 
+94, Alcoholic liver disease 
+95, Other chronic liver disease and cirrhosis 
+96, Cholelithiasis and other disorders of gallbladder 
+97," Nephritis, nephrotic syndrome and nephrosis "
+98, Acute and rapidly progressive nephritic and nephrotic syndrome 
+99," Chronic glomerulonephritis, non-acute nephritis and nephropathy and renal sclerosis unspecified "
+100, Renal failure 
+101, Other disorders of kidney 
+102, Infections of kidney 
+103, Hyperplasia of prostate 
+104, Inflammatory diseases of female pelvic organs 
+105," Pregnancy, childbirth and the puerperium "
+106, Pregnancy with abortive outcome 
+107," Other complications of pregnancy, childbirth and the puerperium "
+108, Certain conditions originating in the perinatal period 
+109," Congenital malformations, deformations and chromosomal abnormalities "
+110,"Abnormal clinical and laboratory findings, not elsewhere classified "
+111, All other diseases 
+112, Accidents 
+113, Transport accidents 
+114, Motor vehicle accidents 
+115, Other land transport accidents 
+116," Water, air and space, and unspecified transport accidents"
+117, Nontransport accidents 
+118, Falls 
+119, Accidental discharge of firearms 
+120, Accidental drowning and submersion 
+121," Accidental exposure to smoke, fire and flames "
+122, Accidental poisoning and exposure to noxious substances 
+123,Unspecified non-transport accidents
+124, Intentional self-harm 
+125, Intentional self-harm 
+126, Intentional self-harm 
+127, Assault 
+128, Assault 
+129, Assault 
+130, Legal intervention 
+131, Events of undetermined intent 
+132," Discharge of firearms, undetermined intent "
+133,Unspecified events of undetermined intent
+134, Operations of war and their sequelae
+135, Complications of medical and surgical care
